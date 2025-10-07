@@ -1,9 +1,9 @@
-# 🚀 SK네트웍스 Family AI 과정 14기 1팀 - Final Project
+# SK네트웍스 Family AI 과정 14기 1팀 - Final Project
 <a id="toc-demo"></a>
-## 🎥 시연 영상
+## 시연 영상
 [![시연 영상 썸네일](https://img.youtube.com/vi/fQ38bUQxsQo/hqdefault.jpg)](https://youtu.be/YZnAioNsNyo?si=UUYjFH3L-jXAsDGC)
 
-## **❇️ 프로젝트명 : CodeNova**  
+## **프로젝트명 : CodeNova**  
 LLM 활용 내부 고객 업무 효율성 향상을 위한 API 전문 사내 개발자 지원 AI 기반 문서 검색 시스템  
 
 ---
